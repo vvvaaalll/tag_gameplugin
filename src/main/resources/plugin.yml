@@ -1,0 +1,7 @@
+name: TagPlugin
+main: fr.tagplugin.TagPlugin
+version: 1.4
+commands:
+  tag:
+    description: TagPlugin main command
+    usage: /tag <join|leave|vote|stats|top|status|setspawn|stop|reload>

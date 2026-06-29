@@ -1,0 +1,8 @@
+langue: fr
+jeu:
+  joueurs-minimum: 3
+  duree-vote: 30
+  duree-partie: 180
+  duree-manche-patate: 15
+  roi-score-victoire: 30
+  roi-rayon-zone: 5.0

@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Java compilé
+*.class
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Serveur de test
+world/
+plugins/
+logs/

@@ -178,4 +178,4 @@ plugins/TagPlugin/lang/
 
 The plugin includes language support files that can be edited or translated to create your own language version.
 
-The repository currently contains the source code of TagPlugin v1.5.
+## The repository currently contains the source code of TagPlugin v1.5.
